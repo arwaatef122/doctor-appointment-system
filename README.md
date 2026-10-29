@@ -1,4 +1,3 @@
-# doctor-appointment-system
 # Doctor Appointment Booking System
 
 ## Team Details
